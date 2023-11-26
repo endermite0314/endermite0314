@@ -1,4 +1,3 @@
-# profile
 # 勉強中のprogramming lang
 
 #### スマホアプリ
