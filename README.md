@@ -1,5 +1,6 @@
-# 勉強中のprogramming lang
+#Fentanyl410/学生
 
+###勉強中のプログラミング言語と技術達
 #### スマホアプリ
 
 - Flutter Dart
