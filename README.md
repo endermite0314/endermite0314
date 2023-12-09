@@ -17,7 +17,7 @@
 - Python Django
 - SQL
 
-#### windows app
+#### windows
 
 - Python
 - C++
